@@ -1,4 +1,4 @@
-let url = "http://api.weatherbit.io/v2.0/current?";
+let url = "https://api.weatherbit.io/v2.0/current?";
 
 let APIkey = "5d9b7d11812b4df896479f0e4282bd36";
 let city_dropdown = document.querySelector("#city");
